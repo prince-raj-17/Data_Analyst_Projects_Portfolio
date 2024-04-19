@@ -1,6 +1,6 @@
-# Data Analyst Projects Portfolio
+# Data Science Project Portfolio
 
-Welcome to my Data Analyst Projects Portfolio! This repository serves as a showcase of my work and projects in the realm of data analysis. Here, you'll find a collection of projects that demonstrate my skills in SQL, Python, Power BI, Tableau, and Excel, among other tools and technologies that are critical in the field of data analysis.
+Welcome to my Data Science Project Portfolio! This repository serves as a showcase of my work and projects in the realm of data analysis. Here, you'll find a collection of projects that demonstrate my skills in SQL, Python, Power BI, Tableau, and Excel, among other tools and technologies that are critical in the field of data analysis.
 
 ## Projects Overview
 
